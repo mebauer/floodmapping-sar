@@ -25,6 +25,7 @@ Day 1:
 - Data Access and Analysis: Precipitation, Terrain, Socioeconomic Data
 - Overview of ISRO Satellite Remote Sensing for Flood Monitoring & Mapping (ISRO)
 - Data Access and Analysis: Hydrological Variables, Optical, SAR, Scatterometer, and Altimeter  
+
 Day 2:  
 - Overview of Flood Monitoring and Mapping Based on Remote Sensing of Land 
 - Overview and Applications of Synthetic Aperture Radar (SAR)
