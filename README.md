@@ -2,7 +2,7 @@
 Author: Mark Bauer
 
 ## Training
-Targeted at ARSET courses on Flood Mapping and Synthetic Aperture Radar (SAR).
+Targeted at ARSET courses on Flood Mapping and Synthetic Aperture Radar (SAR). This repo was inspired by the [Awesome SAR](https://github.com/RadarCODE/awesome-sar) repository.
 
 ### Beginner
 [ARSET - Developing Sustainable Earth Science Applications](https://appliedsciences.nasa.gov/get-involved/training/english/arset-developing-sustainable-earth-science-applications)
