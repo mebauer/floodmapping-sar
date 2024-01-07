@@ -1,4 +1,4 @@
-# A Collection of NASA ARSET Courses for Flood Mapping and SAR
+# A Collection of NASA ARSET Courses for Flood Mapping and Synthetic Aperture Radar (SAR)
 Author: Mark Bauer
 
 ## Training
