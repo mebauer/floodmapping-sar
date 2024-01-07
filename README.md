@@ -1,10 +1,10 @@
-# A Collection of NASA ARSET Courses for Flood Mapping and Synthetic Aperture Radar (SAR)
+## A Collection of NASA ARSET Courses for Flood Mapping and Synthetic Aperture Radar (SAR)
 Author: Mark Bauer
 
-## Training
+### Training
 Targeted at ARSET courses on Flood Mapping and Synthetic Aperture Radar (SAR). This repo was inspired by the [Awesome SAR](https://github.com/RadarCODE/awesome-sar) repository.
 
-### Beginner
+#### Beginner
 [ARSET - Developing Sustainable Earth Science Applications](https://appliedsciences.nasa.gov/get-involved/training/english/arset-developing-sustainable-earth-science-applications)
 
 [ARSET - Fundamentals of Remote Sensing](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing)
@@ -48,7 +48,7 @@ Day 2:
 - Session 3: Introduction to Polarimetric SAR
 - Session 4: Introduction to SAR Interferometry
 
-### Intermediate/Advanced
+#### Intermediate/Advanced
 [ARSET - Monitoring and Modeling Floods using Earth Observations](https://appliedsciences.nasa.gov/get-involved/training/english/arset-monitoring-and-modeling-floods-using-earth-observations)
 - Part 1: Overview of Flood Monitoring Tools based on Remote Sensing Observations
 - Part 2: Overview of Flood Modeling
