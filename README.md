@@ -1,5 +1,4 @@
 ## A Collection of NASA ARSET Courses for Flood Mapping and Synthetic Aperture Radar (SAR)
-Author: Mark Bauer
 
 ### Training
 Targeted at ARSET courses on Flood Mapping and Synthetic Aperture Radar (SAR). This repo was inspired by the [Awesome SAR](https://github.com/RadarCODE/awesome-sar) repository.
